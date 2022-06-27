@@ -1,2 +1,4 @@
-# primeiro projeto
- primeiro repositorio versionado
+# ola, mundo!
+ primeiro repositorio git hub
+
+ conhecimento e aprimoramento
